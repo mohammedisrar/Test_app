@@ -1,2 +1,1 @@
-print('Hello world')
-print('HI there')
+Hi my name is python
